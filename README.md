@@ -24,16 +24,10 @@ I have delivered many successful projects using these Technologies - React, Redu
 * Worked on high volume websites across a wide variety of desktop and mobile browsers.
 * Willingness to take ownership of projects and see them through to completion.
 * Communicating ideas clearly to both technical and non-technical audiences.	
-<br/>
 
 #### Follow me on:
 <br/>
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-Naveen%20Setty-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumarpg/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-@naveenkumarpg-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/naveenkumapg) 
-
-[![Facebook](https://img.shields.io/badge/Facebook-Naveen%20Setty-4267b2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/naveenkumarpg.19/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Naveen%20Setty-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumarpg/) [![Twitter](https://img.shields.io/badge/Twitter-@naveenkumarpg-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/naveenkumapg)  [![Facebook](https://img.shields.io/badge/Facebook-Naveen%20Setty-4267b2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/naveenkumarpg.19/)
 
 <br/>
 
@@ -42,6 +36,6 @@ I have delivered many successful projects using these Technologies - React, Redu
 </summary>
 <br>
 
-![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=naveenkumarpg&show_icons=true)
+![Naveen Setty's github stats](https://github-readme-stats.vercel.app/api?username=naveenkumarpg&show_icons=true)
 
 
