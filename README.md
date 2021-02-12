@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-### Personal Summary :
-
-I'm a Front End Developer living in Swindon, United Kingdom.
-
-I bring along 10+ years of Extensive experience as a Interactive Developer & JavaScript Architect.
+I'm a Front End Developer living in Swindon, United Kingdom. I bring along 10+ years of Extensive experience as a Interactive Developer & JavaScript Architect.
 
 I have delivered many successful projects using these Technologies - React, Redux, jQuery, HTML, CSS, SASS, LESS, Experience in SEO optimization and Accessibility WCAG 2.0 AA standards as well.
 
