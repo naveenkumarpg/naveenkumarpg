@@ -25,6 +25,7 @@ I have delivered many successful projects using these Technologies - React, Redu
 * Willingness to take ownership of projects and see them through to completion.
 * Communicating ideas clearly to both technical and non-technical audiences.	
 <br/>
+
 #### Follow me on:
 <br/>
 
