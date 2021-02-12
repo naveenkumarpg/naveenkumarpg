@@ -8,23 +8,6 @@ I bring along 10+ years of Extensive experience as a Interactive Developer & Jav
 
 I have delivered many successful projects using these Technologies - React, Redux, jQuery, HTML, CSS, SASS, LESS, Experience in SEO optimization and Accessibility WCAG 2.0 AA standards as well.
 
-### Areas of expertise
- 
-* Work through a project life cycle.
-* Web content and management.
-* Search Engine Optimization.
-* Communicate confidently.
-* Always positive, regardless of the challenge ahead.
-* Quickly fit into an existing team of developers.
-* Developing cross-browser and cross-platform compatible solutions.
-* Acted as mentor for the freshers and trained them in real-time web development concepts
-* Working on the websites of high visibility, multi-national companies and brands.
-* Organize and manage multiple priorities simultaneously.
-* The ability to work on your own with minimum supervision.
-* Worked on high volume websites across a wide variety of desktop and mobile browsers.
-* Willingness to take ownership of projects and see them through to completion.
-* Communicating ideas clearly to both technical and non-technical audiences.	
-
 ### Follow me on:
 <br/>
 
