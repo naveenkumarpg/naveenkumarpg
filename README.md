@@ -9,6 +9,9 @@ I have delivered many successful projects using these Technologies - React, Redu
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Naveen%20Setty-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveenkumarpg/) [![Twitter](https://img.shields.io/badge/Twitter-@naveenkumarpg-brightgreen?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/naveenkumapg) [![Facebook](https://img.shields.io/badge/Facebook-Naveen%20Setty-4267b2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/naveenkumarpg.19/)
 
+### Stack Overflow
+<img src="https://stackexchange.com/users/flair/5400725.png" width="300" title="hover text">
+
 ###  Naveen Setty's GitHub Stats
 <br>
 
